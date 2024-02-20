@@ -1,3 +1,3 @@
 # gh_mergeconf
 
-- 1-lb1
+- 1-main-lb1
